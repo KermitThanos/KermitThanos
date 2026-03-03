@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KermitThanos
-- 👀 I’m interested in mobile games and fantasy books
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me: here
+- 👀 I’m interested in makeup and chainsaw man
+- 🌱 I’m currently learning lua
+- 💞️ I’m looking to collaborate on Roblox
+- 📫 How to reach me: here and roblox
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: lizards are cool
 
