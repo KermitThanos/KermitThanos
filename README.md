@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KermitThanos
-- 👀 I’m interested in makeup and chainsaw man
+- 👀 I’m interested chainsaw man
 - 🌱 I’m currently learning lua
-- 💞️ I’m looking to collaborate on Roblox
-- 📫 How to reach me: here and roblox
+- 💞️ I’m looking to make repo for website
+- 📫 How to reach me: email
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: lizards are cool
 
