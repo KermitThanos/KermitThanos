@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KermitThanos
 - 👀 I’m interested chainsaw man
 - 🌱 I’m currently learning lua
-- 💞️ I’m looking to make repo for website
+- 💞️ I’m looking to make friends
 - 📫 How to reach me: email
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: lizards are cool
